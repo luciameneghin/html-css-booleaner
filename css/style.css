@@ -53,3 +53,21 @@ table {
   width: 50%;
   text-align: left;
 }
+
+.box-square1 {
+  background-image: url(../img/monitor.jpg);
+  width: 300px;
+  height: 200px;
+}
+
+.descrizione-imm {
+  color: white;
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.box-square2 {
+  background-image: url(../img/graph.jpg);
+  width: 300px;
+  height: 200px;
+}
