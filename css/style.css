@@ -36,3 +36,13 @@ h4 {
 .sottolineatura {
   background-color: yellow;
 }
+
+table {
+  width: 100%;
+  background-size: contain
+}
+
+.box {
+  width: 30%;
+  text-align: left;
+}
