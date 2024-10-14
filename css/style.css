@@ -1,3 +1,34 @@
-body {
-  background-color: green;
+body {}
+
+.box.intestazione {
+  background-color: #4fa1cc;
+  width: 100%;
+}
+
+.logo {
+  background-image: url(../img/pattern.png);
+  background-size: cover;
+}
+
+/* #pattern {
+  background-color: #4fa1cc;
+  width: 100%;
+  height: 20%;
+} */
+
+
+h4 {
+  color: grey;
+}
+
+#azzurro {
+  color: #4fa1cc;
+}
+
+#data {
+  font-size: 0.8rem;
+}
+
+#foto-intestazione {
+  font-size: 0.8rem;
 }
