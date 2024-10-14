@@ -42,7 +42,14 @@ table {
   background-size: contain
 }
 
-.box {
-  width: 30%;
+.box-testa1,
+.box-corpo1 {
+  width: 20%;
+  text-align: left;
+}
+
+.box-testa2,
+.box-corpo2 {
+  width: 50%;
   text-align: left;
 }
